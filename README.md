@@ -1,6 +1,6 @@
 # Gig Worker Carjackings
 
-This repository contains data from our story, "[TK]()."
+This repository contains data from our story, "[Uber And Lyft Drivers Are Being Carjacked at Alarming Rates](https://themarkup.org/working-for-an-algorithm/2021/07/22/uber-and-lyft-drivers-are-being-carjacked-at-alarming-rates)."
 
 
 ## Data
