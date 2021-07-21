@@ -16,6 +16,6 @@ Data in the file is arranged as follows:
 | **`date`** |	Date where incident took place
 | **`company`** |	App that gig worker was using at time of incident
 | **`carjacking_happened_via_the_app`** |	Whether the alleged assailants hailed the driver through the app or if the incident happened randomly on the street, based on descriptions found in the sources. Marked "Yes," "No," or "Unclear."
-| **`driver`** | deceased	Whether the driver was killed as a result of the incident
+| **`driver_deceased`** |	Whether the driver was killed as a result of the incident
 | **`source`** |	Where information was gathered to confirm incident
 | **`additional_sources`** |	Additional confirmation of the incident
