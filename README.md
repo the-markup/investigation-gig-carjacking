@@ -5,7 +5,7 @@ This repository contains data from our story, "[TK]()."
 
 ## Data
 
-TK
+`data/carjackings.csv` catalogues instances of gig workers being assaulted on the job, sourced using news and police reports.
 
 Data in the file is arranged as follows:
 
