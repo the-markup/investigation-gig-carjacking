@@ -1,8 +1,8 @@
 # Gig Worker Carjackings
 
-This repository contains data from our stories, "[More Than 350 Gig Workers Carjacked, 28 Killed, Over the Last Five Years](https://themarkup.org/working-for-an-algorithm/2022/07/28/more-than-350-gig-workers-carjacked-28-killed-over-the-last-five-years)" and "[Uber And Lyft Drivers Are Being Carjacked at Alarming Rates](https://themarkup.org/working-for-an-algorithm/2021/07/22/uber-and-lyft-drivers-are-being-carjacked-at-alarming-rates)." 
+This repository contains data from our stories, "[More Than 350 Gig Workers Carjacked, 28 Killed, Over the Last Five Years](https://themarkup.org/working-for-an-algorithm/2022/07/28/more-than-350-gig-workers-carjacked-28-killed-over-the-last-five-years)" , "[Uber And Lyft Drivers Are Being Carjacked at Alarming Rates](https://themarkup.org/working-for-an-algorithm/2021/07/22/uber-and-lyft-drivers-are-being-carjacked-at-alarming-rates)" and "[When Drivers Are Attacked, Uber Leaves Police Waiting for Help](https://themarkup.org/working-for-an-algorithm/2022/12/09/when-drivers-are-attacked-uber-leaves-police-waiting-for-help)."
 
-This repository was originally published on July 22, 2021, and later updated on July 28, 2022.
+This repository was originally published on July 22, 2021, and later updated on July 28, 2022 and December 9, 2022.
 
 ## Data
 
